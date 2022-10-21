@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @qgiang124
+- 👋 Howdy, I’m Giang!
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning iOS mobile development
 
